@@ -1,0 +1,38 @@
+{
+  "name": "St Pauls",
+  "version": "1.0.0",
+  "description": "St Pauls",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Futurekings/sapphire.git"
+  },
+  "keywords": [
+    "smartsave"
+  ],
+  "author": "future kings",
+  "license": "ISC",
+  "homepage": "https://github.com/Futurekings/sapphire#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "*",
+    "gulp-clean-css": "^3.9.4",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-notify": "^3.0.0",
+    "gulp-rename": "*",
+    "gulp-sass": "^4.0.2",
+    "gulp-sass-glob": "^1.0.8",
+    "gulp-svg-sprite": "^1.4.0",
+    "merge-stream": "^1.0.1",
+    "node-sass": "^4.5.0",
+    "npm": "^6.2.0",
+    "popper.js": "^1.14.7",
+    "svg-sprite": "^1.4.0"
+  },
+  "devDependencies": {
+    "gulp-sass": "^4.0.2"
+  }
+}
